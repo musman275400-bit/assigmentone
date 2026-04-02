@@ -1,2 +1,2 @@
 # assigmentone
-test
+test only
